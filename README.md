@@ -1,4 +1,4 @@
-# telegram-bot
+# telegram-bot + контейнеризация
 
 Teminal commands to run container:
 
